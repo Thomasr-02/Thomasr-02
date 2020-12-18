@@ -8,7 +8,7 @@
 
 **Contact**
 <div>
-  <a  href=" https://www.linkedin.com/in/thomas-ribeiro-0164a219a/">
+  <a  href="https://www.linkedin.com/in/thomas-ribeiro-0164a219a/">
     <img width="30" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png">
   </a>      
   <a href="https://www.instagram.com/thomasr_02/">
