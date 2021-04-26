@@ -1,6 +1,6 @@
 ### Hi there, I'm Thomas! 👋
 
-- <img  width="30" src="https://www.digivox.com.br/files/system/template/logos/logo-header.png"> I’m currently working as Full Stack Developer at [Digivox Soluções em Tecnologia e Comunicação](http://digivox.com.br/).
+- I’m currently working as Full Stack Developer | Sofware Engineer
 
 - 🌱 I’m currently learning <code><img width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
