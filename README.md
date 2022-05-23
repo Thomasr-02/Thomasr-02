@@ -1,8 +1,8 @@
 ### Hi there, I'm Thomas! 👋
 
-- I’m currently working as Full Stack Developer | Software Engineer
+- I’m currently working such as Software Engineer at iFood
 
-- 🌱 I’m currently learning <code><img width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- 🌱 I’m currently learning <code><img width="35px" src="https://miro.medium.com/max/800/1*MwZZjt-IlJU0TFaZxfBz1Q.jpeg"></code><code><img  height="20" src="https://miro.medium.com/max/1400/0*7vQ8eRc28yz9k__r.png"></code>
 
 - <img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Graduating in Data Science and Artificial Intelligence by UFPB
 
